@@ -1,0 +1,5 @@
+For Demos 1-4:
+pip install openai python-dotenv
+
+For Demo 5:
+pip install langgraph langchain-core langchain-openai python-dotenv
